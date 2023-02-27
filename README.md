@@ -2,7 +2,7 @@
 
 Сайт-портфолио для кондитера-предпринимателя.
 
-(https://cakes.deniszagvozdin.ru/)[https://cakes.deniszagvozdin.ru/]
+[https://cakes.deniszagvozdin.ru/](https://cakes.deniszagvozdin.ru/)
 
 ### Технологии
 
